@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "scss": "Generate scss from the input to the output "
+    "scss": "Generate scss from the input to the output ",
+    "scss:watch": "Generate and watch scss folder"
   },
   "repository": {
     "type": "git",
